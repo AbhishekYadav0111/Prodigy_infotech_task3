@@ -73,6 +73,8 @@ Note: SVMs are sensitive to high dimensionality. Therefore, we use a reduced ima
 
   
 🖼️ Sample Output
+
+
 ![Capture](https://github.com/user-attachments/assets/2ec9aa20-bec8-4e22-b9bb-4ff491fb7b63)
 
 🚀 How to Run
